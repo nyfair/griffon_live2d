@@ -1,4 +1,4 @@
-MODELS = ['88type_1809','95type_405','dsr50_1801','dsr50_2101','g36c_1202','hk416_805','kp31_310','m1928a1_1501','mlemk1_604','rfb_1601','vector_1901','welrod_1401','grizzly_2102']
+MODELS = ['88type_1809','95type_405','dsr50_1801','dsr50_2101','g36c_1202','hk416_805','kp31_310','m1928a1_1501','mlemk1_604','rfb_1601','vector_1901','welrod_1401','grizzly_2102','ntw20_2301']
 
 // シーン生成
 var scene = new THREE.Scene();
