@@ -75,7 +75,7 @@
 						"Id": "zuoOPsx"
 					},
 					"VertexIndex": 1,
-					"Scale": 2,
+					"Scale": 1.5,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -86,7 +86,7 @@
 						"Id": "youOPsx"
 					},
 					"VertexIndex": 1,
-					"Scale": 3,
+					"Scale": 2.5,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false

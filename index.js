@@ -36,8 +36,8 @@ var offRenderTarget2 = new THREE.WebGLRenderTarget(
 
 var MODEL = MODELS[Math.floor(Math.random() * MODELS.length)];
 // Live2Dモデルパス
-var MODEL_PATH1 = "dabao/live2d/gun/" + MODEL + "/normal/";
-var MODEL_PATH2 = "dabao/live2d/gun/" + MODEL + "/destroy/";
+var MODEL_PATH1 = "dollsfrontline/" + MODEL + "/normal/";
+var MODEL_PATH2 = "dollsfrontline/" + MODEL + "/destroy/";
 // Live2Dモデル生成
 var live2dmodel1 = new THREE.Live2DRender( renderer, MODEL_PATH1, "model.json");
 var live2dmodel2 = new THREE.Live2DRender( renderer, MODEL_PATH2, "model.json");
@@ -89,8 +89,8 @@ document.addEventListener('mousedown', function(e) {
         break;
     case 1:
         MODEL = MODELS[Math.floor(Math.random() * MODELS.length)];
-        MODEL_PATH1 = "dabao/live2d/gun/" + MODEL + "/normal/";
-        MODEL_PATH2 = "dabao/live2d/gun/" + MODEL + "/destroy/";
+        MODEL_PATH1 = "dollsfrontline/" + MODEL + "/normal/";
+        MODEL_PATH2 = "dollsfrontline/" + MODEL + "/destroy/";
         live2dmodel1 = new THREE.Live2DRender( renderer, MODEL_PATH1, "model.json");
         live2dmodel2 = new THREE.Live2DRender( renderer, MODEL_PATH2, "model.json");
     }
