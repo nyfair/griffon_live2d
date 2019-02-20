@@ -4,9 +4,9 @@
     "Duration": 10.033,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 163,
-    "TotalSegmentCount": 1227,
-    "TotalPointCount": 3097,
+    "CurveCount": 162,
+    "TotalSegmentCount": 1226,
+    "TotalPointCount": 3096,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -8329,17 +8329,6 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandSAPT",
-      "Segments": [
-        0,
-        0,
-        0,
-        10.033,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamHandSAPAngel",
       "Segments": [
         0,
         0,

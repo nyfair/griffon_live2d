@@ -3,13 +3,7 @@
   "FileReferences": {
     "Moc": "mingshi.moc3",
     "Textures": [
-      "textures/texture_00.png",
-      "textures/texture_01.png",
-      "textures/texture_02.png",
-      "textures/texture_03.png",
-      "textures/texture_04.png",
-      "textures/texture_05.png",
-      "textures/texture_06.png"
+      "textures/texture_00.png"
     ],
     "Physics": "mingshi.physics3.json",
     "Motions": {
