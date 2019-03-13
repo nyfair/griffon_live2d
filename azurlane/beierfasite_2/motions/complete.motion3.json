@@ -5,8 +5,8 @@
     "Fps": 30.0,
     "Loop": true,
     "CurveCount": 126,
-    "TotalSegmentCount": 1248,
-    "TotalPointCount": 3450,
+    "TotalSegmentCount": 1250,
+    "TotalPointCount": 3460,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -303,6 +303,23 @@
         6.8,
         1,
         2,
+        8.467,
+        1,
+        1,
+        8.556,
+        1,
+        8.644,
+        0,
+        8.733,
+        0,
+        1,
+        8.833,
+        0,
+        8.933,
+        1,
+        9.033,
+        1,
+        2,
         11.033,
         1
       ]
@@ -377,6 +394,23 @@
         6.622,
         1,
         6.8,
+        1,
+        2,
+        8.467,
+        1,
+        1,
+        8.556,
+        1,
+        8.644,
+        0,
+        8.733,
+        0,
+        1,
+        8.833,
+        0,
+        8.933,
+        1,
+        9.033,
         1,
         2,
         11.033,
@@ -8707,40 +8741,6 @@
     },
     {
       "Target": "PartOpacity",
-      "Id": "PartMouthKey",
-      "Segments": [
-        0,
-        0,
-        2,
-        0.5,
-        1,
-        2,
-        10.5,
-        0,
-        2,
-        11.03,
-        0
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "PartMouth",
-      "Segments": [
-        0,
-        1,
-        2,
-        0.5,
-        0,
-        2,
-        10.5,
-        1,
-        2,
-        11.03,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
       "Id": "PartArmXingliL",
       "Segments": [
         0,
@@ -9162,6 +9162,28 @@
         0,
         11.033,
         0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartMouthKey",
+      "Segments": [
+        0,
+        0,
+        0,
+        11.033,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartMouth",
+      "Segments": [
+        0,
+        1,
+        0,
+        11.033,
+        1
       ]
     }
   ]

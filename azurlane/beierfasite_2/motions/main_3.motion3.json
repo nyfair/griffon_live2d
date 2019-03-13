@@ -5,8 +5,8 @@
     "Fps": 30.0,
     "Loop": true,
     "CurveCount": 131,
-    "TotalSegmentCount": 1484,
-    "TotalPointCount": 4022,
+    "TotalSegmentCount": 1480,
+    "TotalPointCount": 4018,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -10177,40 +10177,6 @@
     },
     {
       "Target": "PartOpacity",
-      "Id": "PartMouthKey",
-      "Segments": [
-        0,
-        0,
-        2,
-        0.5,
-        1,
-        2,
-        11.33,
-        0,
-        2,
-        11.83,
-        0
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "PartMouth",
-      "Segments": [
-        0,
-        1,
-        2,
-        0.5,
-        0,
-        2,
-        11.33,
-        1,
-        2,
-        11.83,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
       "Id": "PartArmXingliL",
       "Segments": [
         0,
@@ -10560,6 +10526,28 @@
         0,
         11.833,
         0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartMouthKey",
+      "Segments": [
+        0,
+        0,
+        0,
+        11.833,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartMouth",
+      "Segments": [
+        0,
+        1,
+        0,
+        11.833,
+        1
       ]
     },
     {

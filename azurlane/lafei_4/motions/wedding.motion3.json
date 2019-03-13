@@ -4,9 +4,9 @@
     "Duration": 16.5,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 170,
-    "TotalSegmentCount": 1326,
-    "TotalPointCount": 3452,
+    "CurveCount": 171,
+    "TotalSegmentCount": 1327,
+    "TotalPointCount": 3453,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -9086,6 +9086,17 @@
     {
       "Target": "Parameter",
       "Id": "gaoguangtoumingdu",
+      "Segments": [
+        0,
+        0,
+        0,
+        16.5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "heihuatmd",
       "Segments": [
         0,
         0,

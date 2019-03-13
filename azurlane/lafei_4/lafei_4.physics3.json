@@ -47,7 +47,7 @@
 						"Target": "Parameter",
 						"Id": "ParamAngleX"
 					},
-					"Weight": 60,
+					"Weight": 45,
 					"Type": "X",
 					"Reflect": false
 				},
@@ -77,7 +77,7 @@
 						"Id": "ParamHairFront"
 					},
 					"VertexIndex": 1,
-					"Scale": 6,
+					"Scale": 3,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -88,7 +88,7 @@
 						"Id": "qianfashensuo"
 					},
 					"VertexIndex": 1,
-					"Scale": 3,
+					"Scale": 2,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false

@@ -4,9 +4,9 @@
     "Duration": 5.5,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 11,
-    "TotalSegmentCount": 12,
-    "TotalPointCount": 12,
+    "CurveCount": 12,
+    "TotalSegmentCount": 13,
+    "TotalPointCount": 13,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -20,6 +20,17 @@
         0,
         5.5,
         1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "reqipiaodong",
+      "Segments": [
+        0,
+        0,
+        0,
+        5.5,
+        3
       ]
     },
     {

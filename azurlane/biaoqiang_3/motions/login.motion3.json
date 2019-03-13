@@ -4,9 +4,9 @@
     "Duration": 3.833,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 171,
-    "TotalSegmentCount": 638,
-    "TotalPointCount": 1610,
+    "CurveCount": 170,
+    "TotalSegmentCount": 645,
+    "TotalPointCount": 1625,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -3035,6 +3035,34 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ZTXZ",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.633,
+        0,
+        2,
+        0.833,
+        0,
+        1,
+        0.866,
+        0,
+        0.9,
+        0.4,
+        0.933,
+        0.4,
+        1,
+        1.9,
+        0.4,
+        2.866,
+        0,
+        3.833,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "YOUTUI",
       "Segments": [
         0,
@@ -3104,6 +3132,40 @@
         3.422,
         0,
         3.533,
+        0,
+        2,
+        3.833,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "YTXZ",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.633,
+        0,
+        2,
+        0.833,
+        0,
+        1,
+        0.866,
+        0,
+        0.9,
+        0.4,
+        0.933,
+        0.4,
+        2,
+        1.433,
+        0.4,
+        1,
+        1.711,
+        0.4,
+        1.989,
+        0,
+        2.267,
         0,
         2,
         3.833,
@@ -4895,28 +4957,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ZTXZ",
-      "Segments": [
-        0,
-        0,
-        0,
-        3.833,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "YTXZ",
-      "Segments": [
-        0,
-        0,
-        0,
-        3.833,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "YQBCJD",
       "Segments": [
         0,
@@ -5221,17 +5261,6 @@
         0,
         3.833,
         0
-      ]
-    },
-    {
-      "Target": "2935860712",
-      "Id": "2935860712",
-      "Segments": [
-        0,
-        1,
-        0,
-        3.833,
-        1
       ]
     }
   ]

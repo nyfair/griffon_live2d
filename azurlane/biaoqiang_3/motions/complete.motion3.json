@@ -4,9 +4,9 @@
     "Duration": 8.567,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 171,
-    "TotalSegmentCount": 778,
-    "TotalPointCount": 2016,
+    "CurveCount": 170,
+    "TotalSegmentCount": 777,
+    "TotalPointCount": 2015,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -6173,17 +6173,6 @@
         0,
         8.567,
         0
-      ]
-    },
-    {
-      "Target": "2935860712",
-      "Id": "2935860712",
-      "Segments": [
-        0,
-        1,
-        0,
-        8.567,
-        1
       ]
     }
   ]
